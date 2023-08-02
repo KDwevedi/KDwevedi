@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![C4GTGithubDisplay](https://kcavhjwafgtoqkqbbqrd.supabase.co/storage/v1/object/public/c4gt-github-profile/476285280811483140githubdisplay.jpg?maxAge=10)](https://github.com/Code4GovTech)
+<!--[![C4GTGithubDisplay](https://kcavhjwafgtoqkqbbqrd.supabase.co/storage/v1/object/public/c4gt-github-profile/476285280811483140githubdisplay.jpg?maxAge=10)](https://github.com/Code4GovTech)-->
 
 <!--
 **KDwevedi/KDwevedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
